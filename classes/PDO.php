@@ -1,14 +1,14 @@
 <?
 //имя базы
-$dbn = 'cl56391_telegram';
+$dbn = 'shonicol_store';
 //имя сервера
-$dbh = 'localhost';
+$dbh = '65.19.141.67';
 //порт
 $dbr = '3306';
 //имя пользователя
-$dbu = 'cl56391_telegram';
+$dbu = 'shonicol_admin';
 //пароль
-$dbp = 'qweqwe1233';
+$dbp = '1q2w3e';
 
   ob_start();
   session_name('sid');
