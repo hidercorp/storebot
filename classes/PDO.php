@@ -1,14 +1,14 @@
 <?
 //имя базы
-$dbn = 'gopbotcf_bot';
+$dbn = 'f0219527_bgop';
 //имя сервера
-$dbh = '46.105.118.169';
+$dbh = '141.8.195.34';
 //порт
 $dbr = '3306';
 //имя пользователя
-$dbu = 'gopbotcf_shonico';
+$dbu = 'f0219527_shonicola';
 //пароль
-$dbp = '1q2w3e3e2w1q';
+$dbp = '1q2w3e';
 
   ob_start();
   session_name('sid');
