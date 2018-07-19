@@ -1,14 +1,14 @@
 <?
 //имя базы
-$dbn = 'botstore';
+$dbn = 'sql2248276';
 //имя сервера
-$dbh = 'db4free.net';
+$dbh = 'sql2.freemysqlhosting.net';
 //порт
 $dbr = '3306';
 //имя пользователя
-$dbu = 'shonicola';
+$dbu = 'sql2248276';
 //пароль
-$dbp = '1q2w3eQq';
+$dbp = 'vI1!mS5!';
 
   ob_start();
   session_name('sid');
