@@ -6,7 +6,7 @@ session_start();
  $font_size = 17.5;   			//Размер шрифта
  $let_amount = 4;               //Количество символов, которые нужно набрать
  $fon_let_amount = 30;          //Количество символов, которые находятся на фоне
- $path_fonts = '../style/fonts/cour.ttf';        //Путь к шрифтам
+ $path_fonts = '..storebot/style/fonts/cour.ttf';        //Путь к шрифтам
  
  
  $letters = array('a','b','c','d','e','f','g','h','j','k','m','n','p','q','r','s','t','u','v','w','x','y','z','2','3','4','5','6','7','9');
