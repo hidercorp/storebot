@@ -1,14 +1,14 @@
 <?
 //имя базы
-$dbn = 'shonicol_store';
+$dbn = 'botstore';
 //имя сервера
-$dbh = '65.19.141.67';
+$dbh = 'db4free.net';
 //порт
 $dbr = '3306';
 //имя пользователя
-$dbu = 'shonicol_admin';
+$dbu = 'shonicola';
 //пароль
-$dbp = '1q2w3e';
+$dbp = '1q2w3eQq';
 
   ob_start();
   session_name('sid');
