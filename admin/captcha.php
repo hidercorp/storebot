@@ -3,7 +3,7 @@ session_start();
 
  $width = 100;                  //Ширина изображения
  $height = 60;                  //Высота изображения
- $font_size = 16;   			//Размер шрифта
+ $font_size = 17.5;   			//Размер шрифта
  $let_amount = 4;               //Количество символов, которые нужно набрать
  $fon_let_amount = 30;          //Количество символов, которые находятся на фоне
  $path_fonts = '../style/fonts/cour.ttf';        //Путь к шрифтам
@@ -41,6 +41,6 @@ session_start();
  
  $_SESSION['captcha'] = implode('',$cod);
  
- header ("Content-type: images/gif"); 
+ header ("Content-type: image/gif"); 
  imagegif($src);
 ?> 
