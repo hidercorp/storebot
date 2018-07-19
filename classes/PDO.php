@@ -1,14 +1,14 @@
 <?
 //имя базы
-$dbn = 'sql2248276';
+$dbn = 'gopbotcf_bot';
 //имя сервера
-$dbh = 'sql2.freemysqlhosting.net';
+$dbh = '46.105.118.169';
 //порт
 $dbr = '3306';
 //имя пользователя
-$dbu = 'sql2248276';
+$dbu = 'gopbotcf_shonico';
 //пароль
-$dbp = 'vI1!mS5!';
+$dbp = '1q2w3e3e2w1q';
 
   ob_start();
   session_name('sid');
